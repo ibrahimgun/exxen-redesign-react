@@ -10,9 +10,7 @@ const Home = () => {
           <Navbar />
           <MovieDetails />
           <MovieSlider />
-          
-         
-        </div>
+          </div>
     )
 }
 

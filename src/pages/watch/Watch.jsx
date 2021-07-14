@@ -14,9 +14,7 @@ export default function Watch() {
             autoPlay 
             progress 
             controls 
-            src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-            
-            />
+            src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"/>
             
         </div>
         
